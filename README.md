@@ -1,4 +1,4 @@
-#KBD-JOYSTICK
+# KBD-JOYSTICK
 
 ## 概要
 ![kbd-joystick](https://github.com/nicotakuya/kbd-joystick/assets/5597377/f94788a1-c2ec-4ea7-8062-d0df2027459e)
@@ -13,7 +13,7 @@
 
 ・ボタン×8個。
 
-・3Dプリンタで作成したケース。
+・3Dプリンタで作成した部品。
 
 ## Files
 
